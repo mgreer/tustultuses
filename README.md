@@ -23,5 +23,5 @@ Phase 4: Realish or Fakish
 ==========
 * Rework core ranking of journalists to a scale, using expert panel scoring them on professional reputation
 * Build feedback loop to re-score news creators based on their success at providing truth
-  * Hard to do, but first thought is to see who else reported the same news in our list and let that news cohort weigt them up/down 
+  * Hard to do, but first thought is to see who else reported the same news in our list and let that news cohort drag them up/down 
 * Extend list of journalists/news creators
